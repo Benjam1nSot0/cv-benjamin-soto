@@ -1,0 +1,20 @@
+.navbarcss {
+    background-color: #252422;
+}
+.avatar {
+    background-color: #ccc5b9;
+}
+#educacion {
+    background-color: #403d39;
+}
+body {
+    background-color: #FFFCF2;
+}
+.navportafolio {
+    background-color:#403d39;
+}
+.card-img-top {
+  height: 650px;
+  object-fit: cover;
+}
+    
